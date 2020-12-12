@@ -1,4 +1,4 @@
 /Data/*
 /nyct2010_17c/*
 *.csv
-/clean_data
+/figs/*
